@@ -1,5 +1,7 @@
-Sparrow3D
-=========
+Sparrow3D FORK
+=============
+
+This version has some changes for RG350.
 
 1. About Sparrow3D
 2. Licence
